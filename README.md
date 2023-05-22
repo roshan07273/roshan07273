@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan Raturi</h1>
 <h3 align="center">Dreamer--Learner---Striver---Coder</h3>
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan07273&label=Profile%20views&color=0e75b6&style=flat" alt="roshan07273" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan07273" alt="roshan07273" /></a> </p>
+<p align="left"> <a href="https://twitter.com/roshanraturi10" target="blank"><img src="https://img.shields.io/twitter/follow/roshanraturi10?logo=twitter&style=for-the-badge" alt="roshanraturi10" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -11,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/roshanraturi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshanraturi10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roshanraturi28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshanraturi28/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__roshanraturi928/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__roshanraturi928/?next=%2f" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/roshanraturi804/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/roshanraturi804/practice" height="30" width="40" /></a>
 </p>
 
