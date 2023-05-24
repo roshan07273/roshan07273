@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/roshanraturi10" target="blank"><img src="https://img.shields.io/twitter/follow/roshanraturi10?logo=twitter&style=for-the-badge" alt="roshanraturi10" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FULL STACK WEB DEV.** 
 
 - 📫 How to reach me **roshanraturi804@gmail.com**
 
