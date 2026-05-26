@@ -85,16 +85,6 @@
 
 ---
 
-### 🚀 Projects
-
-**🔍 Online Payments Fraud Detection** `Nov 2025`
-> End-to-end ML pipeline using Random Forest & Naive Bayes • FastAPI for real-time predictions • 96% accuracy • ROC-AUC & F1-score optimization
-
-**👨‍💻 CodeMate: Pair Programming Platform** `Oct 2024`
-> React.js • Tailwind CSS • Docker • Google Cloud • PostgreSQL • NextAuth • Live video conferencing • 92% performance growth
-
----
-
 ### 🏆 Achievements
 
 - 🥇 **Gold Medalist** — 12th Grade (80%, highest in board center)
