@@ -97,12 +97,16 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan07273&show_icons=true&theme=tokyonight" alt="Roshan's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan07273&theme=tokyonight" alt="Roshan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=roshan07273&theme=tokyonight" alt="Roshan's GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan07273&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
